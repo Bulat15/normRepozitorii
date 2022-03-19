@@ -1,0 +1,31 @@
+.one_block {
+  background-image: url("../img/Rectangle.png");
+  width: 1500px;
+  height: 740px;
+  background-size: cover;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.text {
+  color: white;
+  font-size: 60px;
+}
+
+.small_text {
+  color: white;
+  font-size: 12px;
+  margin: 10px;
+}
+
+.font_size {
+  background-color: white;
+}
+
+/*# sourceMappingURL=style.css.map */
